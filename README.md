@@ -157,4 +157,3 @@ Session Configuration: Use a session store like express-mysql-session or Redis f
 ### Contributing
 Feel free to submit issues or pull requests for improvements.
 
-You can copy and paste this directly into your `README.md` file. Let me know if anything else needs adjustment!
