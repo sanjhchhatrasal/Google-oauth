@@ -1,4 +1,14 @@
+# Google Authentication with Passport.js in Node.js
 
+This guide walks you through the process of setting up **Google Authentication** in a Node.js application using **Passport.js**.
+
+---
+
+## Prerequisites  
+- Node.js installed on your machine  
+- A Google account to create OAuth credentials  
+
+---
 ## Getting Started  
 
 ### 1. Create a New Node.js Project  
