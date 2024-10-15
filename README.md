@@ -8,12 +8,12 @@ Run the following commands to create a new project:
 mkdir google-auth-passport  
 cd google-auth-passport  
 npm init -y  
-2. Install Required Dependencies
+### 2. Install Required Dependencies
 Install the necessary packages for the application:
 
 
 npm install express passport passport-google-oauth20 express-session dotenv
-3. Set Up Google OAuth Credentials
+### 3. Set Up Google OAuth Credentials
 Go to the Google Cloud Console.
 
 Create a new project.
@@ -29,7 +29,7 @@ Set the Authorized redirect URIs to:
 http://localhost:3000/auth/google/callback
 After creating the credentials, note down the Client ID and Client Secret.
 
-4. Create a .env File
+### 4. Create a .env File
 In the root directory of your project, create a .env file and add your Google credentials:
 
 
